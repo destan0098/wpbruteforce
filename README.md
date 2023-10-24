@@ -66,10 +66,6 @@ GLOBAL OPTIONS:
 
 ---
 
-## ScreenShot
-
-![IP Show](/screenshot2.png?raw=true "subenum")
-
 
 ## Features
 
